@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Students-Info SYSTEM "Task2.dtd">
+<Students-Info>
+	<student>
+		<id>1</id>
+		<name>Sadiq</name>
+		<regno>190031506</regno>
+		<time>09:54 AM</time>
+		<dob>18-09-2001</dob>
+		<mobile>8790424533</mobile>
+		<avg>90</avg>
+		<distinction>YES</distinction>
+	</student>	
+	<student>
+		<id>2</id>
+		<name>Naveen</name>
+	<regno>190030230</regno>
+	<time>09:55 AM</time>
+	<dob>22-06-2002</dob>
+	<mobile>9848763421</mobile>
+	<avg>95</avg>
+	<distinction>YES</distinction>
+	</student>
+	<student>
+		<id>3</id>
+		<name>Surya</name>
+	<regno>190031733</regno>
+	<time>09:56 AM</time>
+	<dob>25-08-2002</dob>
+	<mobile>9848745678</mobile>
+	<avg>98</avg>
+	<distinction>YES</distinction>
+	</student>
+	<student>
+	<id>4</id>
+		<name>sharooq</name>
+	<regno>190031479</regno>
+	<time>09:55 AM</time>
+	<dob>10-02-2001</dob>
+	<mobile>7989763421</mobile>
+	<avg>95</avg>
+	<distinction>YES</distinction>
+	</student>
+	<student>
+		<id>5</id>
+		<name>ganesh</name>
+	<regno>190030122</regno>
+	<time>10:00 AM</time>
+	<dob>10-02-2001</dob>
+	<mobile>7989763421</mobile>
+	<avg>99</avg>
+	<distinction>YES</distinction>
+	</student>
+</Students-Info>
